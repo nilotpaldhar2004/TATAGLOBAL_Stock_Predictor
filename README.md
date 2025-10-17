@@ -30,4 +30,4 @@ A Python-based stock price prediction application that forecasts TATAGLOBAL’s 
 1. **Clone the repository**
 ```bash
 git clone https://github.com/nilotpaldhar2004/TATAGLOBAL_Stock_Predictor.git
-cd 5DayStockForecast
+cd TATAGLOBAL_Stock_Predictor
