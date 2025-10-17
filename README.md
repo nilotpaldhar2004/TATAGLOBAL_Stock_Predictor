@@ -1,31 +1,35 @@
-# 5-Day Stock Forecast for TATAGLOBAL
+# 💹 5-Day Stock Forecast for TATAGLOBAL
 
-A Python-based stock price prediction application that forecasts TATAGLOBAL’s closing prices for the next 5 days using machine learning (KNN). This project includes a **Streamlit dashboard** with interactive input, predicted closing prices, confidence levels, and visualization of volatility trends.
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
----
-
-## Features
-
-- Predicts stock price movement (UP 📈 / DOWN 📉) for the next 5 days
-- Provides predicted closing price, confidence percentage, and volatility range
-- Interactive Streamlit interface for easy usage
-- Neon-dark theme visualization for better clarity
-- Trained machine learning model using historical stock data
+A **Python-based stock prediction app** that forecasts **TATAGLOBAL’s closing prices for the next 5 days** using **KNN Machine Learning**.  
+Includes a **Streamlit dashboard** with interactive inputs, predicted closing prices, confidence levels, and visualized volatility trends.  
 
 ---
 
-## Technologies
+## 🌟 Features
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- scikit-learn
-- Streamlit
+- 🔮 Predict stock price movement (UP 📈 / DOWN 📉) for **next 5 days**  
+- 💰 Display **predicted closing price, confidence %, and volatility range**  
+- 🖥️ Interactive **Streamlit interface** for easy usage  
+- 🌌 Neon-dark theme visualization for **better clarity and modern UI**  
+- 📊 Trained **KNN model** using historical stock data  
 
 ---
 
-## Installation
+## 🛠️ Technologies Used
+
+- Python 🐍  
+- Pandas & NumPy 📊  
+- Matplotlib & Seaborn 🎨  
+- scikit-learn 🔧  
+- Streamlit 🌐  
+
+---
+
+## 📦 Installation
 
 1. **Clone the repository**
 ```bash
